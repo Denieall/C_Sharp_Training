@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe.config
+C:\Users\Denieall\source\repos\Training\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+C:\Users\Denieall\source\repos\Training\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+C:\Users\Denieall\source\repos\Training\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.exe
+C:\Users\Denieall\source\repos\Training\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.pdb

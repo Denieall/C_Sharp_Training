@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\StringWriter_StringReader\bin\Debug\StringWriter_StringReader.exe.config
+C:\Users\Denieall\source\repos\Training\StringWriter_StringReader\bin\Debug\StringWriter_StringReader.exe
+C:\Users\Denieall\source\repos\Training\StringWriter_StringReader\bin\Debug\StringWriter_StringReader.pdb
+C:\Users\Denieall\source\repos\Training\StringWriter_StringReader\obj\Debug\StringWriter_StringReader.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\StringWriter_StringReader\obj\Debug\StringWriter_StringReader.exe
+C:\Users\Denieall\source\repos\Training\StringWriter_StringReader\obj\Debug\StringWriter_StringReader.pdb
+C:\Users\Denieall\source\repos\Training\StringWriter_StringReader\obj\Debug\StringWriter_StringReader.csprojAssemblyReference.cache

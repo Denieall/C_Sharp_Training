@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\CastAndConvert\bin\Debug\CastAndConvert.exe.config
+C:\Users\Denieall\source\repos\Training\CastAndConvert\bin\Debug\CastAndConvert.exe
+C:\Users\Denieall\source\repos\Training\CastAndConvert\bin\Debug\CastAndConvert.pdb
+C:\Users\Denieall\source\repos\Training\CastAndConvert\obj\Debug\CastAndConvert.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\CastAndConvert\obj\Debug\CastAndConvert.exe
+C:\Users\Denieall\source\repos\Training\CastAndConvert\obj\Debug\CastAndConvert.pdb

@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\LambaExpression\bin\Debug\LambaExpression.exe.config
+C:\Users\Denieall\source\repos\Training\LambaExpression\bin\Debug\LambaExpression.exe
+C:\Users\Denieall\source\repos\Training\LambaExpression\bin\Debug\LambaExpression.pdb
+C:\Users\Denieall\source\repos\Training\LambaExpression\obj\Debug\LambaExpression.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\LambaExpression\obj\Debug\LambaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\LambaExpression\obj\Debug\LambaExpression.exe
+C:\Users\Denieall\source\repos\Training\LambaExpression\obj\Debug\LambaExpression.pdb

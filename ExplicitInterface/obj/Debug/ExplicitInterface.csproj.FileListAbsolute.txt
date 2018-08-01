@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\ExplicitInterface\bin\Debug\ExplicitInterface.exe.config
+C:\Users\Denieall\source\repos\Training\ExplicitInterface\bin\Debug\ExplicitInterface.exe
+C:\Users\Denieall\source\repos\Training\ExplicitInterface\bin\Debug\ExplicitInterface.pdb
+C:\Users\Denieall\source\repos\Training\ExplicitInterface\obj\Debug\ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\ExplicitInterface\obj\Debug\ExplicitInterface.exe
+C:\Users\Denieall\source\repos\Training\ExplicitInterface\obj\Debug\ExplicitInterface.pdb

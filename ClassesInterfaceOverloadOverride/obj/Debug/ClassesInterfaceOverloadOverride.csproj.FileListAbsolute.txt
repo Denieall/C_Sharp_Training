@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\ClassesInterfaceOverloadOverride\bin\Debug\ClassesInterfaceOverloadOverride.exe.config
+C:\Users\Denieall\source\repos\Training\ClassesInterfaceOverloadOverride\bin\Debug\ClassesInterfaceOverloadOverride.exe
+C:\Users\Denieall\source\repos\Training\ClassesInterfaceOverloadOverride\bin\Debug\ClassesInterfaceOverloadOverride.pdb
+C:\Users\Denieall\source\repos\Training\ClassesInterfaceOverloadOverride\obj\Debug\ClassesInterfaceOverloadOverride.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\ClassesInterfaceOverloadOverride\obj\Debug\ClassesInterfaceOverloadOverride.exe
+C:\Users\Denieall\source\repos\Training\ClassesInterfaceOverloadOverride\obj\Debug\ClassesInterfaceOverloadOverride.pdb

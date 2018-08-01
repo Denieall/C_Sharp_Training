@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+C:\Users\Denieall\source\repos\Training\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+C:\Users\Denieall\source\repos\Training\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+C:\Users\Denieall\source\repos\Training\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+C:\Users\Denieall\source\repos\Training\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb

@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\DelegatesAndMulticastDelegates\bin\Debug\DelegatesAndMulticastDelegates.exe.config
+C:\Users\Denieall\source\repos\Training\DelegatesAndMulticastDelegates\bin\Debug\DelegatesAndMulticastDelegates.exe
+C:\Users\Denieall\source\repos\Training\DelegatesAndMulticastDelegates\bin\Debug\DelegatesAndMulticastDelegates.pdb
+C:\Users\Denieall\source\repos\Training\DelegatesAndMulticastDelegates\obj\Debug\DelegatesAndMulticastDelegates.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\DelegatesAndMulticastDelegates\obj\Debug\DelegatesAndMulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\DelegatesAndMulticastDelegates\obj\Debug\DelegatesAndMulticastDelegates.exe
+C:\Users\Denieall\source\repos\Training\DelegatesAndMulticastDelegates\obj\Debug\DelegatesAndMulticastDelegates.pdb

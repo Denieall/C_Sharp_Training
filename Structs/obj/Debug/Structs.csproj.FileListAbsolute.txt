@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\Structs\bin\Debug\Structs.exe.config
+C:\Users\Denieall\source\repos\Training\Structs\bin\Debug\Structs.exe
+C:\Users\Denieall\source\repos\Training\Structs\bin\Debug\Structs.pdb
+C:\Users\Denieall\source\repos\Training\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\Structs\obj\Debug\Structs.exe
+C:\Users\Denieall\source\repos\Training\Structs\obj\Debug\Structs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\Denieall\source\repos\Training\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\Denieall\source\repos\Training\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\Denieall\source\repos\Training\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\Denieall\source\repos\Training\Enumeration\obj\Debug\Enumeration.pdb

@@ -1,0 +1,10 @@
+C:\Users\Denieall\source\repos\Training\GetAndPost\bin\Debug\GetAndPost.exe.config
+C:\Users\Denieall\source\repos\Training\GetAndPost\bin\Debug\GetAndPost.exe
+C:\Users\Denieall\source\repos\Training\GetAndPost\bin\Debug\GetAndPost.pdb
+C:\Users\Denieall\source\repos\Training\GetAndPost\obj\Debug\GetAndPost.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\GetAndPost\obj\Debug\GetAndPost.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\GetAndPost\obj\Debug\GetAndPost.exe
+C:\Users\Denieall\source\repos\Training\GetAndPost\obj\Debug\GetAndPost.pdb
+C:\Users\Denieall\source\repos\Training\GetAndPost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denieall\source\repos\Training\GetAndPost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denieall\source\repos\Training\GetAndPost\obj\Debug\GetAndPost.csproj.CopyComplete

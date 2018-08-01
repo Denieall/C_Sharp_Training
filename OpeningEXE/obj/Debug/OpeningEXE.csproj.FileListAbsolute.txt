@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\OpeningEXE\bin\Debug\OpeningEXE.exe.config
+C:\Users\Denieall\source\repos\Training\OpeningEXE\bin\Debug\OpeningEXE.exe
+C:\Users\Denieall\source\repos\Training\OpeningEXE\bin\Debug\OpeningEXE.pdb
+C:\Users\Denieall\source\repos\Training\OpeningEXE\obj\Debug\OpeningEXE.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\OpeningEXE\obj\Debug\OpeningEXE.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\OpeningEXE\obj\Debug\OpeningEXE.exe
+C:\Users\Denieall\source\repos\Training\OpeningEXE\obj\Debug\OpeningEXE.pdb

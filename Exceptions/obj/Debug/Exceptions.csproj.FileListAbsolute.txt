@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Denieall\source\repos\Training\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Denieall\source\repos\Training\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Denieall\source\repos\Training\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Denieall\source\repos\Training\Exceptions\obj\Debug\Exceptions.pdb

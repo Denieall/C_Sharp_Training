@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\Denieall\source\repos\Training\Indexers\bin\Debug\Indexers.exe
+C:\Users\Denieall\source\repos\Training\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Denieall\source\repos\Training\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\Indexers\obj\Debug\Indexers.exe
+C:\Users\Denieall\source\repos\Training\Indexers\obj\Debug\Indexers.pdb

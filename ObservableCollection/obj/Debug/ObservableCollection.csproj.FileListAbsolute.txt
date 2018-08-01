@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\ObservableCollection\bin\Debug\ObservableCollection.exe.config
+C:\Users\Denieall\source\repos\Training\ObservableCollection\bin\Debug\ObservableCollection.exe
+C:\Users\Denieall\source\repos\Training\ObservableCollection\bin\Debug\ObservableCollection.pdb
+C:\Users\Denieall\source\repos\Training\ObservableCollection\obj\Debug\ObservableCollection.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\ObservableCollection\obj\Debug\ObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\ObservableCollection\obj\Debug\ObservableCollection.exe
+C:\Users\Denieall\source\repos\Training\ObservableCollection\obj\Debug\ObservableCollection.pdb

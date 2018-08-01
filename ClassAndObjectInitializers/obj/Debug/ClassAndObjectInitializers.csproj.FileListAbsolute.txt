@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\ClassAndObjectInitializers\bin\Debug\ClassAndObjectInitializers.exe.config
+C:\Users\Denieall\source\repos\Training\ClassAndObjectInitializers\bin\Debug\ClassAndObjectInitializers.exe
+C:\Users\Denieall\source\repos\Training\ClassAndObjectInitializers\bin\Debug\ClassAndObjectInitializers.pdb
+C:\Users\Denieall\source\repos\Training\ClassAndObjectInitializers\obj\Debug\ClassAndObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\ClassAndObjectInitializers\obj\Debug\ClassAndObjectInitializers.exe
+C:\Users\Denieall\source\repos\Training\ClassAndObjectInitializers\obj\Debug\ClassAndObjectInitializers.pdb
+C:\Users\Denieall\source\repos\Training\ClassAndObjectInitializers\obj\Debug\ClassAndObjectInitializers.csprojAssemblyReference.cache

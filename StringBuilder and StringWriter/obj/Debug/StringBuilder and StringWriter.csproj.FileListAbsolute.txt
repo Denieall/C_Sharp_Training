@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\StringBuilder and StringWriter\bin\Debug\StringBuilder and StringWriter.exe.config
+C:\Users\Denieall\source\repos\Training\StringBuilder and StringWriter\bin\Debug\StringBuilder and StringWriter.exe
+C:\Users\Denieall\source\repos\Training\StringBuilder and StringWriter\bin\Debug\StringBuilder and StringWriter.pdb
+C:\Users\Denieall\source\repos\Training\StringBuilder and StringWriter\obj\Debug\StringBuilder and StringWriter.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\StringBuilder and StringWriter\obj\Debug\StringBuilder and StringWriter.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\StringBuilder and StringWriter\obj\Debug\StringBuilder and StringWriter.exe
+C:\Users\Denieall\source\repos\Training\StringBuilder and StringWriter\obj\Debug\StringBuilder and StringWriter.pdb

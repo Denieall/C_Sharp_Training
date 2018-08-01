@@ -1,0 +1,6 @@
+C:\Users\Denieall\source\repos\Training\PropertyAndField\bin\Debug\PropertyAndField.exe.config
+C:\Users\Denieall\source\repos\Training\PropertyAndField\bin\Debug\PropertyAndField.exe
+C:\Users\Denieall\source\repos\Training\PropertyAndField\bin\Debug\PropertyAndField.pdb
+C:\Users\Denieall\source\repos\Training\PropertyAndField\obj\Debug\PropertyAndField.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\PropertyAndField\obj\Debug\PropertyAndField.exe
+C:\Users\Denieall\source\repos\Training\PropertyAndField\obj\Debug\PropertyAndField.pdb

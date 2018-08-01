@@ -1,0 +1,7 @@
+C:\Users\Denieall\source\repos\Training\ListofList\bin\Debug\ListofList.exe.config
+C:\Users\Denieall\source\repos\Training\ListofList\bin\Debug\ListofList.exe
+C:\Users\Denieall\source\repos\Training\ListofList\bin\Debug\ListofList.pdb
+C:\Users\Denieall\source\repos\Training\ListofList\obj\Debug\ListofList.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\Training\ListofList\obj\Debug\ListofList.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\Training\ListofList\obj\Debug\ListofList.exe
+C:\Users\Denieall\source\repos\Training\ListofList\obj\Debug\ListofList.pdb
